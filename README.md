@@ -140,6 +140,7 @@ Now choose fb = 10fa = 1 / 2πR1C1 Therefore, R1 = 1 / 2π(103)(10-7)
 = 1.59KΩ Since RFCF = R1C1
 We get, CF = (1.59*103*10-7) / 15.9*103
 = 0.01μF
+
 <img width="573" height="671" alt="image" src="https://github.com/user-attachments/assets/a6d61cb2-f4f7-49ba-937c-235686092590" />
 
 
