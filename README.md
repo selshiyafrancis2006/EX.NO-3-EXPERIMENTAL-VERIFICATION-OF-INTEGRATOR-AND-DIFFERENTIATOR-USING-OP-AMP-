@@ -67,7 +67,7 @@ We get , R1 =	and hence Rf ,
 <img width="596" height="616" alt="image" src="https://github.com/user-attachments/assets/5b0c819c-f423-4505-b479-0e04086b287c" />
 
 ## GRAPH
-<img width="594" height="749" alt="image" src="https://github.com/user-attachments/assets/4c58681e-c670-412e-8c9a-7e5662343803" />
+<img width="589" height="742" alt="image" src="https://github.com/user-attachments/assets/3ca58456-631d-403f-b1e6-9af2445a2fe0" />
 
 
 ---
@@ -155,7 +155,7 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 <img width="575" height="608" alt="image" src="https://github.com/user-attachments/assets/a144c8ef-2075-4c6f-ba45-6b2075f9de42" />
 
 ## GRAPH
-<img width="505" height="673" alt="image" src="https://github.com/user-attachments/assets/0197b08d-b004-4505-a430-fddc9ecbdfb8" />
+<img width="573" height="793" alt="image" src="https://github.com/user-attachments/assets/750aa7de-476d-4a2f-b243-0582e34b8377" />
 
 
 
